@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "568289534105",
+    "project_id": "bearyhappy-9aa9d",
+    "storage_bucket": "bearyhappy-9aa9d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568289534105:android:43e7e84b9e9bb85e2c9808",
+        "android_client_info": {
+          "package_name": "com.example.bearyhappy_ver1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI34z7hfV1cLayOtV9FL141h8yNKQkLe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
